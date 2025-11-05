@@ -1,1 +1,3 @@
 We are writing some example line.
+
+We are adding another line for some more git logging practices.
